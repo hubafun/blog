@@ -14,20 +14,6 @@ install Jemoji webrick
 
 
 
-低龄3~6：
-1、学习软件推荐
-2、游戏式，逻辑训练
-
-6~7岁：
-Scratch Jr
-
-7~10岁：
-Scratch
-
-11~18岁：
-C语言
-NOIP
-
 直播：
 机器人比赛
 
